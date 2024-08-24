@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## Stats
+[![I-Shizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Shizu&theme=gruvbox)](https://github.com/I-Shizu/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Shizu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-Shizu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Shizu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-Shizu&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=I-Shizu&theme=gruvbox&utcOffset=9)
 <p align="left">
   <a href="https://github.com/I-Shizu">
     <img height="20" src="https://komarev.com/ghpvc/?username=I-Shizu" />
@@ -17,13 +24,6 @@
     <img height="20" src="https://badgen.org/img/zenn/shizu/articles?style=plastic" />
   </a>
 </p>
-
-## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Shizu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-Shizu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Shizu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=I-Shizu&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=I-Shizu&theme=gruvbox&utcOffset=9)
 
 ## Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=I-Shizu&theme=gruvbox)
