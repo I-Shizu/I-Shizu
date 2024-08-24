@@ -1,4 +1,5 @@
 ## Hi there 👋
+<p>I'm Mobile Enginner and Student of Meiji.univ!</p>
 
 ## Stats
 [![I-Shizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Shizu&theme=gruvbox)](https://github.com/I-Shizu/github-readme-stats)
