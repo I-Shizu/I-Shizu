@@ -2,7 +2,6 @@
 <p>I'm Mobile Enginner</p>
 
 ## Stats
-[![I-Shizu's GitHub stats](https://github-readme-stats.vercel.app/api?username=I-Shizu&theme=gruvbox)](https://github.com/I-Shizu/github-readme-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Shizu&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=I-Shizu&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=I-Shizu&theme=gruvbox)
