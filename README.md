@@ -1,5 +1,5 @@
 ## Hi there! 👋
-<p>I'm Mobile Enginner</p>
+<p>趣味でFlutterやReact Nativeなどを使って個人やチームでアプリ開発してます。リリースしたアプリ。</p>
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Shizu&theme=gruvbox)
