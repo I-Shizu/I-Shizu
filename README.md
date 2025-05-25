@@ -1,5 +1,17 @@
-## Hi there! 👋
-<p>趣味でFlutterやReact Nativeなどを使って個人やチームでアプリ開発してます。リリースしたアプリ。</p>
+## しずくのプロフィールへようこそ 👋
+- FlutterやReact Nativeなどを使って個人やチームでアプリ開発
+- 仕事ではC#
+
+## リリースしたアプリ
+### <a href="https://apps.apple.com/jp/app/%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9Btask/id6743649568">📱おまかせTask(Producted By Flutter)</a>
+- Flutter
+- Firebase
+- RiverPod
+<br>を使ったタスク管理アプリ<br>
+<a href="https://github.com/I-Shizu/tasks_todo_app/tree/dev" >コードはこちらから</a><br>
+<img height="400" src="https://github.com/user-attachments/assets/5d024ee3-d959-4290-8536-592bf852433b" />
+<img height="400" src="https://github.com/user-attachments/assets/7809ff37-e688-4ed5-a5f1-1ac026417cbb" />
+<img height="400" src="https://github.com/user-attachments/assets/be82cf65-4576-425d-a397-76c4711c7de2" />
 
 ## Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=I-Shizu&theme=gruvbox)
