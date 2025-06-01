@@ -1,6 +1,6 @@
 ## しずくのプロフィールへようこそ 👋
-- FlutterやReact Nativeなどを使って個人やチームでアプリ開発
-- 仕事ではC#
+- FlutterやExpoを使って個人やチームでアプリ開発をしています
+- 仕事ではReact/Typescriptを使ってます
 
 ## リリースしたアプリ
 ### <a href="https://apps.apple.com/jp/app/%E3%81%8A%E3%81%BE%E3%81%8B%E3%81%9Btask/id6743649568">📱おまかせTask(Producted By Flutter)</a>
